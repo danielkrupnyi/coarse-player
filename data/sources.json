@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"title": "Elephants Dream",
+		"src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+		"type": "video/mp4",
+		"poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Tears of Steel",
+		"src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+		"type": "video/mp4",
+		"poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Sintel",
+		"src": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+		"type": "video/mp4",
+		"poster": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg"
+	}
+]

@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+.vjs-poster > img {
+	object-fit: cover !important;
+}
