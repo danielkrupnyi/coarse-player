@@ -32,6 +32,16 @@ export interface PlayerStoreTypes {
 	currentPoster: string;
 	recording: boolean;
 	theme: 'dark' | 'light';
+	playbackRate: number;
+	currentTime: number;
+	duration: number;
+	fullscreen: boolean;
+	pictureInPicture: boolean;
+	setPictureInPicture: (pip: boolean) => void;
+	setFullscreen: (fullscreen: boolean) => void;
+	setPlaybackRate: (rate: number) => void;
+	setCurrentTime: (time: number) => void;
+	setDuration: (duration: number) => void;
 	changeTheme: (newTheme: ThemeVariants) => void;
 	setCurrentSource: (src: SourcesTypes) => void;
 	setCurrentSourceIndex: (index: number) => void;

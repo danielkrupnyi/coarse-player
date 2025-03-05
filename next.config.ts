@@ -13,6 +13,11 @@ const nextConfig: NextConfig = {
 				hostname: 'commondatastorage.googleapis.com',
 				port: '',
 			},
+			{
+				protocol: 'https',
+				hostname: 'via.placeholder.com',
+				port: '',
+			},
 		],
 	},
 };
