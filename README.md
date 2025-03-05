@@ -1,3 +1,12 @@
+# Coarse Player
+This is a small video player built using [video.js](https://videojs.com/) and [zustand](https://zustand-demo.pmnd.rs/) which playlist with video from source. 
+
+All settings are saved in zustand store and LocalStorage via zustand persist.
+
+For styling and design [tailwindcss](https://tailwindcss.com/) and [daisyui](https://daisyui.com/) are used.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
